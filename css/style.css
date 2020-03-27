@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.container{
+	width: 90% ;
+	margin:0 auto;
+	float: "center"
+}
+header{
+	min-height: 70px;  
+	background:#ff7675;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+.main{
+	overflow: hidden;
+}
+.point{
+	min-height: 400px;
+   background:#ff7675;
+   width: 60%;
+   float: left;
+   margin-left:3px;
+}
+.sidebar{
+	min-height: 400px;
+	background:#ff7675;
+    width: 35%;
+    float: right;
+    margin-right:3px;
+}
+
+footer{
+	min-height: 70px;
+	background:#ff7675;
+	margin-top: 30px;
+}
+	
